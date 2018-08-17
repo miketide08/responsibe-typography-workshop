@@ -6,22 +6,17 @@ how these techniques can be added to your web projects now and some of the techn
 In addition, several resources were provided to aid and ispire when choosing the right typography for a website. 
 
 Some of the topics learned: 
-  +Variable fonts - New generation of web fonts that are very small in file size and allow for massive customization and scaling. 
+  - Variable fonts - New generation of web fonts that are very small in file size and allow for massive customization and scaling. 
   Variable fonts are the fonts of the future and can be used with the latest version of all major web browsers (as of August 2018). 
-  Go ahead and start using them today.
-  
-  +Dynamic calculation of CSS typography settings across all media queries using CSS variables and calculations in the CSS.
-  
-  *Fallback method to ensure a web page loads all text and doesn't block rendering a site until the web fonts 
+  Go ahead and start using them today.  
+  - Dynamic calculation of CSS typography settings across all media queries using CSS variables and calculations in the CSS.
+  - Fallback method to ensure a web page loads all text and doesn't block rendering a site until the web fonts 
   finish loading. This technique works even if JavaScript is disabled. 
-  
-  +CSS @supports - feature used to handle loading the correct fonts based upon browser support.
-  
-  +Deep dive into the Four Tenants of Responsive Typography: Performance, Progression, Proportion and Polish.
-  
-  +Guidance to find inspiration when selecting the right font(s) to use for a web site. Mnay factors go into choosing the best   typography for a given site.
-  
-  +Text first design
+  - CSS @supports - feature used to handle loading the correct fonts based upon browser support.
+  - Deep dive into the Four Tenants of Responsive Typography: Performance, Progression, Proportion and Polish.
+  - Guidance to find inspiration when selecting the right font(s) to use for a web site. Mnay factors go into choosing the 
+  best typography for a given site.
+  - Text first design
   
   
 ## Getting Started
