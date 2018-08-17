@@ -5,7 +5,7 @@ many features of responsive typography and the great impact typography can have 
 how these techniques can be added to your web projects now and some of the technology is cutting edge, like variable fonts (as of 2018).
 In addition, several resources were provided to aid and ispire when choosing the right typography for a website. 
 
-Some of the topics learned: 
+### Some of the topics learned: 
   - Variable fonts - New generation of web fonts that are very small in file size and allow for massive customization and scaling. 
   Variable fonts are the fonts of the future and can be used with the latest version of all major web browsers (as of August 2018). 
   Go ahead and start using them today.  
